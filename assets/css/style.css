@@ -1,0 +1,100 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+.container{
+	width:1058px;
+	margin:0 auto;
+}
+
+.logo{
+	display:inline-block;
+   
+}
+.header{
+  background-color:#ffffff;
+   padding-top:70px;
+
+}
+.bgimg{
+	margin-bottom:90px;
+}
+.phimg{
+	margin-bottom:30px;
+}
+.para{
+	font-weight:regular;
+	font-size:14px;
+	color:#626262;
+	margin-bottom:50px;
+}
+ .otext h3{
+	font-weight:light;
+	font-size:14px;	
+	height:10px;
+	color:#b4ad9e;
+	margin-bottom:135px;
+	text-transform:uppercase;
+ }
+ 
+ .fimg h3{
+	 font-weight:light;
+	font-size:14px;	
+	height:10px;
+	color:#b4ad9e;
+	text-transform:uppercase;
+	margin-bottom:40px;
+ }
+.fimg img{
+	margin-bottom:30px;
+}
+
+h4{
+	font-size:30px;
+	font-weight:regular;
+	color:#626262;
+	margin-bottom:40px;
+}
+.fimg p{
+	margin-bottom:130px;
+}
+h5{	
+	font-size:30px;
+	color:#333333;
+	font-weight:regular;
+	text-align:center;
+	margin-top:50px;
+	
+	
+		
+}
+.dash{
+	background-color:#f0f0f0;
+	padding:70px 0px;
+	text-align:center;
+	margin-bottom:90px;
+}
+
+.dash .email{
+	height:40px;
+	width:25%;
+	outline:none;
+	border:none;
+	padding:0px 15px;
+	background-color:inherit;
+	border-bottom:1px solid #000;
+
+}
+.sendicon{
+	position:absolute;
+	right:38%;
+}
+.button{
+	text-align:center;
+}
+.abc{
+	padding:15px 100px;
+	margin-bottom:60px;
+}
